@@ -1,3 +1,4 @@
+#Assicurati di aver installato le librerie occorrenti
 import os
 import openpyxl
 
